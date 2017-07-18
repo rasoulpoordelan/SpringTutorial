@@ -1,4 +1,4 @@
-package com.onetechone;
+package com.onetechone.Controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -20,4 +20,3 @@ public class HomeController {
     }
 
 }
-

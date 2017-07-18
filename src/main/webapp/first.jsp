@@ -11,6 +11,6 @@
     <title>first page</title>
 </head>
 <body>
-hello world
+hello world im first page of spring with out xml configuration
 </body>
 </html>
